@@ -1,0 +1,9 @@
+Objective : We need to build a backend system that can support different features like booking tickets 
+We are working on backend.
+Requirements
+
+Functional Requirements:
+Searching Flight from one place to another.
+Authorise User should be able to book a flight.
+price filter based on price departure.
+
